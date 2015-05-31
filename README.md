@@ -6,6 +6,7 @@
 
 # to run it
  - Running server
+
 		compile and run ServidorSocket.java
 
  - Running the client
