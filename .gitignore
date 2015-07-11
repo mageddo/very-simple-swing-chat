@@ -4,6 +4,9 @@
 /.classpath/
 /files/
 /bin/
+/build/
+/nbproject/
+*.mf
 
 *.log
 *.zip
